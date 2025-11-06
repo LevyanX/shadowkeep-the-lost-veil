@@ -1,59 +1,52 @@
- 
+# Shadow Keep: The Lost Veil
 
+Welcome to **Shadow Keep: The Lost Veil**, a thrilling survival-type game inspired by games like *Survivor.io*. Test your skills, strategy, and reflexes as you battle waves of increasingly dangerous enemies in an endless fight for survival.
 
-> Open this page at [https://alexszeto.github.io/1-day-survivor/](https://alexszeto.github.io/1-day-survivor/)
+## Gameplay
 
-## Use as Extension
+In **Shadow Keep: The Lost Veil**, hordes of enemies continuously attack you. Each wave grows progressively more challenging, requiring quick thinking and agile movement to survive. Your goal is simple: **kill as many enemies as possible to achieve the highest score**.
 
-This repository can be added as an **extension** in MakeCode.
+* **Enemy Scaling:** Each wave becomes harder than the last, with more enemies spawning and stronger attacks.
+* **Scoring:** Each enemy defeated awards **1 point**. Track your score and try to beat your previous best.
+* **Endless Mode:** The game continues indefinitely, testing how long you can survive against relentless enemies.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/alexszeto/1-day-survivor** and import
+## Objective
 
-## Edit this project ![Build status badge](https://github.com/alexszeto/1-day-survivor/workflows/MakeCode/badge.svg)
+While the game is designed to be endless, there is a special milestone:
 
-To edit this repository in MakeCode.
+* **The Black Cat:** Reach a certain wave to discover the black cat, revealing the mysterious reason behind the curse haunting the game world. This acts as a narrative goal, but survival and high scores remain the primary focus.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/alexszeto/1-day-survivor** and click import
+## Controls
 
-## Blocks preview
+* **Movement:** [Specify WASD / Arrow keys]
+* **Attack:** [Specify key/button for attack]
+* **Special Abilities:** [If any, explain here]
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+## Features
 
-![A rendered view of the blocks](https://github.com/alexszeto/1-day-survivor/raw/master/.github/makecode/blocks.png)
+* Dynamic wave progression with increasing difficulty
+* Endless gameplay for maximum replayability
+* Score tracking to challenge yourself or others
+* Hidden narrative milestone for dedicated players
 
-#### Metadata (used for search, rendering)
+## Installation
 
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+1. Clone this repository:
 
+   ```bash
+   git clone https://github.com/your-username/ShadowKeep-TheLostVeil.git
+   ```
+2. Open the project in your preferred IDE or game engine.
+3. Run the game and start surviving!
 
+## Contribution
 
-> Open this page at [https://levyanx.github.io/shadowkeep-the-lost-veil/](https://levyanx.github.io/shadowkeep-the-lost-veil/)
+Contributions are welcome! Suggest features, report bugs, or help improve the game via pull requests or issues.
 
-## Use as Extension
+## License
 
-This repository can be added as an **extension** in MakeCode.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/levyanx/shadowkeep-the-lost-veil** and import
+---
 
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/levyanx/shadowkeep-the-lost-veil** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Survive the waves, score high, and uncover the secrets of the black cat in **Shadow Keep: The Lost Veil**. How far can you go?
