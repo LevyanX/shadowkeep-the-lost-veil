@@ -618,9 +618,10 @@ function show_instructions() {
 
 function show_intro() {
     game.showLongText(
-        "You are Sophie, the brave knight!\n" +
+        "You are Darius, the fearless warrior!\n" +
         "An ancient evil haunts the castle.\n" +
-        "Save the kingdom from the mosters.\n" +
+        "Defeat the hordes of monsters and...\n" +
+        "Survive the night..\n" +
         "Enter the castle and lift its curse!", DialogLayout.Bottom)
     seen_intro = true
     settings.writeNumber("seen_intro", 1)
