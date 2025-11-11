@@ -1538,7 +1538,8 @@ f 4 e e f d d f f f c d f . . .
 
     helpers._registerFactory("song", function(name: string) {
         switch(helpers.stringTrim(name)) {
-
+            case "song1":
+            case "A":return hex`0078000408020108001c000e050046006603320000040a002d00000064001400010a000200000216000c001000012510001400032425271400180003242527`;
         }
         return null;
     })
